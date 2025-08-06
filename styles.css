@@ -8,6 +8,10 @@ p {
     font-family: 'Baloo 2';
 }
 
+h1 {
+    font-weight: bold;
+}
+
 .section {
     padding: 30px;
     margin-top: 50px;
